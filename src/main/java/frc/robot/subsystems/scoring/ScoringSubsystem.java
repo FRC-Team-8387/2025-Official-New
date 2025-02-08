@@ -1,10 +1,7 @@
 package frc.robot.subsystems.scoring;
 
 import edu.wpi.first.wpilibj.Joystick;
-import edu.wpi.first.wpilibj.PWM;
 import edu.wpi.first.wpilibj.motorcontrol.PWMSparkMax;
-
-import javax.lang.model.util.ElementScanner14;
 
 import edu.wpi.first.wpilibj.Encoder;
 import edu.wpi.first.wpilibj2.command.SubsystemBase;
