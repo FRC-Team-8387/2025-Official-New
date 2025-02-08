@@ -1,5 +1,7 @@
 package swervelib.motors;
 
+import com.revrobotics.*;
+/*
 import com.revrobotics.AbsoluteEncoder;
 import com.revrobotics.CANSparkBase.ControlType;
 import com.revrobotics.CANSparkBase.IdleMode;
@@ -12,6 +14,7 @@ import com.revrobotics.REVLibError;
 import com.revrobotics.RelativeEncoder;
 import com.revrobotics.SparkAnalogSensor;
 import com.revrobotics.SparkPIDController;
+*/
 import edu.wpi.first.wpilibj.Timer;
 import java.util.function.Supplier;
 import swervelib.encoders.SwerveAbsoluteEncoder;

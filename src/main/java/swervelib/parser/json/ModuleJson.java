@@ -1,7 +1,10 @@
 package swervelib.parser.json;
 
+import com.revrobotics.*;
+/*
 import com.revrobotics.CANSparkMax;
 import com.revrobotics.MotorFeedbackSensor;
+*/
 import edu.wpi.first.math.util.Units;
 import swervelib.encoders.SwerveAbsoluteEncoder;
 import swervelib.motors.SwerveMotor;

@@ -1,9 +1,9 @@
 package swervelib.encoders;
 
-import com.revrobotics.CANSparkMax;
+import com.revrobotics.*;
 import com.revrobotics.REVLibError;
-import com.revrobotics.SparkAnalogSensor;
-import com.revrobotics.SparkAnalogSensor.Mode;
+import com.revrobotics.spark.SparkAnalogSensor;
+
 import java.util.function.Supplier;
 import swervelib.motors.SwerveMotor;
 import swervelib.telemetry.Alert;
